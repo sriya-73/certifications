@@ -1,4 +1,3 @@
 # 📜 Certifications
 
-This repository contains my skill-building certifications on the path to becoming a top AI & Data Science engineer.
-
+This repo contains all my completed and ongoing certifications in AI, Data Science, and related fields.
